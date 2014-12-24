@@ -3,6 +3,8 @@ Shiny apps with ReporteRs objects
 
 Some examples for using FlexTable objects from package ReporteRs in a shiny app.
 
+Visit http://davidgohel.github.io/ReporteRs/index.html for more details about package ReporteRs.
+
 Install ReporteRs :
 
 ```{r}
